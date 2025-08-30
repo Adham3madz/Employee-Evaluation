@@ -1,0 +1,15 @@
+D:\10111010011 (copy 1)\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.csproj.AssemblyReference.cache
+D:\10111010011 (copy 1)\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.AdminForm.resources
+D:\10111010011 (copy 1)\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.EvaluationForm.resources
+D:\10111010011 (copy 1)\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.HRForm.resources
+D:\10111010011 (copy 1)\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.MainForm.resources
+D:\10111010011 (copy 1)\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.ManagerForm.resources
+D:\10111010011 (copy 1)\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.PoliceOfficerForm.resources
+D:\10111010011 (copy 1)\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.Properties.Resources.resources
+D:\10111010011 (copy 1)\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.csproj.GenerateResource.cache
+D:\10111010011 (copy 1)\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.csproj.CoreCompileInputs.cache
+D:\10111010011 (copy 1)\EmployeeManagementApp\EmployeeManagementApp\bin\Debug\EmployeeManagementApp.exe.config
+D:\10111010011 (copy 1)\EmployeeManagementApp\EmployeeManagementApp\bin\Debug\EmployeeManagementApp.exe
+D:\10111010011 (copy 1)\EmployeeManagementApp\EmployeeManagementApp\bin\Debug\EmployeeManagementApp.pdb
+D:\10111010011 (copy 1)\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.exe
+D:\10111010011 (copy 1)\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.pdb
